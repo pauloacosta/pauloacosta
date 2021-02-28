@@ -1,6 +1,6 @@
-### Webdriver PHP API workthough
+### Webdriver PHP API workthough (Forked from aczietlow/selenium-php-webdriver-cheatsheet.md)
 
-*	Open a browser
+* Open a browser
 	
 		# start an instance of firefox with selenium-webdriver
 		
