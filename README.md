@@ -1,5 +1,7 @@
 ### Paulo A. Costa: engenheiro de software e desenvolvedor fullstack.
  
+ <p>Software engineer specialist based in Salvador, Brazil. Working as PHP fullstack developer</p>
+ 
  <div>
   <a href="https://github.com/pauloacosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloacosta&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
