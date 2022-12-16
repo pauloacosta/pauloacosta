@@ -1,4 +1,4 @@
-### Paulo A. Costa: engenheiro de software e desenvolvedor fullstack.
+### Paulo A. Costa
  
  <p>Software engineer specialist based in Salvador, Brazil. Working as PHP fullstack developer</p>
  
