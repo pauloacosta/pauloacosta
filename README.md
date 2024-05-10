@@ -1,6 +1,6 @@
 ### Paulo A. Costa
  
-<p>Software engineer specialist based in Salvador, Brazil. Working as PHP fullstack developer</p>
+<p>Software engineer specialist based in Salvador, Brazil. Working as PHP fullstack developer, DevOps and SRE.</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="pauloacosta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
